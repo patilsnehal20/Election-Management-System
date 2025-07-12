@@ -1,4 +1,4 @@
-<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/fdc6892c-ed06-44be-adc6-fde75810fcf7" />Election Management System
+**Election Management System**
 
 **Overview**
 The Election Management System is a Java-based application designed to facilitate the management of elections. It provides a user-friendly interface for updating leader details, managing voter data, casting votes, and displaying election results. The system aims to streamline the election process, making it more efficient and accessible for both leaders and voters.
