@@ -1,9 +1,9 @@
-Election Management System
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/fdc6892c-ed06-44be-adc6-fde75810fcf7" />Election Management System
 
-Overview
+**Overview**
 The Election Management System is a Java-based application designed to facilitate the management of elections. It provides a user-friendly interface for updating leader details, managing voter data, casting votes, and displaying election results. The system aims to streamline the election process, making it more efficient and accessible for both leaders and voters.
 
-Problem Statement
+**Problem Statement**
 In the current electoral landscape, managing elections can be a complex and cumbersome process. Challenges include:
 - Difficulty in updating and managing leader information.
 - Inefficient handling of voter data and registration.
@@ -12,7 +12,7 @@ In the current electoral landscape, managing elections can be a complex and cumb
 
 To address these challenges, we propose a comprehensive Election Management System that simplifies the election process, ensuring a seamless experience for all stakeholders involved.
 
-Tech Stack
+**Tech Stack**
 - Programming Language : Java
 - GUI Framework : Swing for user interface development
 - Data Structures : HashMap, Binary Search Tree, Stack, Linked List
@@ -30,23 +30,26 @@ Data Structures
 - Stack : Simulates trash functionality for deleted leaders, enabling easy recovery.
 - Linked List : (Not explicitly used in the provided code but can be integrated for additional functionalities).
 
-Key Features and Implementation
-Leader Management
+**Key Features and Implementation**
+**Leader Management**
 - Add New Leaders : Users can input details to add new leaders to the system.
 - Update Leader Details : Existing leader information can be modified as needed.
 - Delete Leaders : Leaders can be removed from the system, with the option to recover from trash.
 - Display Leaders : A list of all leaders can be viewed, showing their details.
 
-Voter Management
+**Voter Management**
 - Add New Voters : Users can register new voters by entering their details.
 - Update Voter Information : Existing voter details can be updated.
 - View Voter Information : Users can view the list of registered voters.
 
-Voting Process
+**Voting Process**
 - Cast Votes : Voters can select their preferred leaders and cast their votes.
 - Display Election Results : After voting, users can view the results of the election.
 
-Code Flow Summary
+**Output**
+https://drive.google.com/file/d/14jQGwcCJtWOiAPOGIE0ur_0YlqMmD_Bp/view?usp=sharing
+
+**Code Flow Summary**
 1. User  Initialization    :  The application starts and displays the main interface.
 2. Leader Management       :  Users can add, update, delete, or view leaders.
 3. Voter Management        :  Users can add, update, or view voters.
@@ -54,14 +57,14 @@ Code Flow Summary
 5. Display Results         :  Users can view the election results after voting.
 6. End of Process          :  The session concludes, allowing for new actions or exit.
 
-Future Enhancements
+**Future Enhancements**
 - Admin Module            : Implement an admin interface for managing leaders and viewing statistics.
 - Database Integration    : Use a database for persistent storage of leader and voter data.
 - Enhanced User Interface : Improve the GUI for a more interactive and user-friendly experience.
 - Reporting Features      : Generate reports on voting statistics and leader performance.
 - Security Features       : Implement user authentication and data encryption for sensitive information.
 
-Setup Instructions
+**Setup Instructions**
 To run the Election Management System, follow these steps:
 
 1. Prerequisites : Ensure you have Java Development Kit (JDK) installed on your machine.
